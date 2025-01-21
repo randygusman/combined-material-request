@@ -6,9 +6,10 @@ A system to manage material requests with frontend and backend components.
 
 ## Frontend (Next.js)
 - **Setup**:
-  1. Go to the frontend folder: `cd frontend`
-  2. Install dependencies: `npm install`
-  3. Start the development server: `npm run dev`
+  1. Clone the Repository: `git clone https://github.com/randygusman/combined-material-request.git`
+  2. `cd frontend`
+  3. Install dependencies: `npm install`
+  4. Start the development server: `npm run dev`
 
 ## Backend (Spring Boot)
 - **Setup**:
